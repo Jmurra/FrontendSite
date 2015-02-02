@@ -6181,14 +6181,30 @@ body {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 40px;
   text-align: center;
+  background-color: #870096;
+  margin: 50px 0px;
 }
-#Code1 {
+.Clang ul {
+  padding-left: 0px;
+}
+.Clang img.pltw {
+  float: right !important;
+  width: 300px;
+}
+.Clang p,
+.Clang li {
+  color: #FFF;
+}
+.Clang a {
+  text-decoration: none;
+}
+.Clang #Code1 li {
   color: #ff3300;
 }
-#code2 {
+.Clang #code2 li {
   color: #00ff00;
 }
-#code3 {
+.Clang #code3 li {
   color: #0033cc;
 }
 #code4 {
