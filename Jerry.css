@@ -6235,6 +6235,7 @@ container {
 .Contact .container.logo-container img.logo,
 container .container.logo-container img.logo {
   margin-top: 250px;
+  width: 100%;
 }
 .logo {
   margin: 0px auto;
@@ -6260,6 +6261,7 @@ ul {
 }
 .top-teal .container.logo-container img.logo {
   margin-top: 250px;
+  width: 100%;
 }
 .logo-container {
   position: relative;
